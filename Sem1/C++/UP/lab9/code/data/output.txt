@@ -1,0 +1,4 @@
+Id = 14; Type = 0; Perimeter = 0; Volume = 0
+Id = 18; Type = 2; Perimeter = 24.000000; Volume = 0; Radius = 3.000000; Angle(Rad) = 6.000000
+Id = 20; Type = 2; Perimeter = 25.000000; Volume = 0; Radius = 5.000000; Angle(Rad) = 3.000000
+Id = 16; Type = 1; Perimeter = 62.831853; Volume = 0; Radius = 10.000000
